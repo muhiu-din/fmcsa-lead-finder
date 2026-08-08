@@ -59,3 +59,6 @@ Install dependencies:
 
 ```bash
 pip install requests openpyxl
+
+# Zip File
+- It is extension fopr safer scrapping add to chrome and run.
